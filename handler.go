@@ -134,6 +134,7 @@ func onJoin(c tele.Context) error {
 		}
 
 		status.UserFullName = c.Sender().FirstName + " " + c.Sender().LastName
+		status.UserFullName = sanitizeName(status.UserFullName)
 
 		db.Set(kvID, status, minikv.DefaultExpiration)
 
