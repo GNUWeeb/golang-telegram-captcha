@@ -22,7 +22,7 @@ _this robot only has one job, and he does it well_
 ```sh
 # If you already have go installed on your machine
 
-go install github.com/GNUWeeb/golang-telegram-captcha
+go install github.com/GNUWeeb/golang-telegram-captcha@latest
 
 # if it's not 
 curl -sf https://gobinaries.com/GNUWeeb/golang-telegram-captcha | sh
