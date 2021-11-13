@@ -15,6 +15,11 @@ _this robot only has one job, and he does it well_
 3. Make the bot as admin in the group
 4. Enjoy...
 
+## Deployment
+
+1. Put your bot token to `BOT_TOKEN` env var
+2. Run the program
+
 ## TODO
 
 - [ ] Refactoring
