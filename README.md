@@ -17,8 +17,14 @@ _this robot only has one job, and he does it well_
 
 ## Deployment
 
-1. Put your bot token to `BOT_TOKEN` env var
-2. Run the program
+1. Download the bot program
+
+```sh
+curl -sf https://gobinaries.com/GNUWeeb/golang-telegram-captcha@latest | sh
+```
+
+2. Put your bot token to `BOT_TOKEN` env var
+3. Run the program
 
 ## TODO
 
