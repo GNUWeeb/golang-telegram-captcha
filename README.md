@@ -36,3 +36,11 @@ curl -sf https://gobinaries.com/GNUWeeb/golang-telegram-captcha@latest | sh
 - [ ] Container deployment
 - [ ] Write tests
 - [ ] Assets licenses
+
+## Credits
+
+```
+Renee French
+Ashley McNamara
+Mat Ryer
+```
