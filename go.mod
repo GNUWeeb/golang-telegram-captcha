@@ -1,4 +1,4 @@
-module telegram-captcha-bot-v2
+module golang-telegram-captcha-bot
 
 go 1.17
 
