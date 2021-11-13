@@ -20,7 +20,12 @@ _this robot only has one job, and he does it well_
 1. Download the bot program
 
 ```sh
-curl -sf https://gobinaries.com/GNUWeeb/golang-telegram-captcha@latest | sh
+# If you already have go installed on your machine
+
+go install github.com/GNUWeeb/golang-telegram-captcha
+
+# if it's not 
+curl -sf https://gobinaries.com/GNUWeeb/golang-telegram-captcha | sh
 ```
 
 2. Put your bot token to `BOT_TOKEN` env var
