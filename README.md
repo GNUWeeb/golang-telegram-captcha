@@ -6,7 +6,7 @@ Fancy, fully-featured, easy to use, scalable Telegram CAPTCHA bot written in Go 
 
 <img height="520" src="https://github.com/GNUWeeb/golang-telegram-captcha/raw/master/screenshot.png">
 
-__this robot only has one job, and he does it well__
+_this robot only has one job, and he does it well_
 
 ## Usage
 
