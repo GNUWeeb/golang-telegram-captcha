@@ -24,7 +24,7 @@ curl -sf https://gobinaries.com/GNUWeeb/golang-telegram-captcha@latest | sh
 ```
 
 2. Put your bot token to `BOT_TOKEN` env var
-3. Run the program
+3. Run the program `golang-telegram-captcha-bot`
 
 ## TODO
 
