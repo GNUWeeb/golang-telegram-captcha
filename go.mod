@@ -11,5 +11,5 @@ require (
 require (
 	github.com/disintegration/imaging v1.6.2 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
-	golang.org/x/image v0.5.0 // indirect
+	golang.org/x/image v0.10.0 // indirect
 )
